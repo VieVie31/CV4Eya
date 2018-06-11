@@ -1,6 +1,5 @@
 # EyaCV
-## Traditional Computer Vision Techniques
--------------------------------------------
+## Quick Revue of Traditional Computer Vision Techniques
 
 
 
@@ -20,9 +19,8 @@
   - fourrier transform (cosine transform)
   - Local Binary Pattern
 
-### form (pieton detection)
+### form (cars detection)
 
-  - Gabor filters (adding localisation)
   - Histogram of Gradient
   - Viola & Jones
 
