@@ -6,3 +6,6 @@
 *.pyo
 __pycache__
 
+4_form/imgs/non-vehicles/
+4_form/imgs/vehicles/
+
