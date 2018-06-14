@@ -30,19 +30,18 @@
   - SIFT Detector (SURF faster, HORB open source)
   - Paronamic matching
 
-### descriptors (micro reversed image search engine)
+### descriptors (naive bag of word boats vs planes image classification)
 
   - SIFT, Horb etc
   - scene descriptor : GIST, bag of features
   - image retrieval / classification
 
-### segmentation (scene segmentation)
+### segmentation (shadow detection)
 
-  - mean shift
-  - grab cut
-  - CRF
+  - color based segmentation 
+  - mean shift, grab cut, CRF
 
-### neural network (to define)
+### neural network (flower classification)
 
   - classification    (VGG, ResNet, Inception, etc.)
   - localisation      (Yolo)
