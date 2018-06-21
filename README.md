@@ -1,8 +1,6 @@
 # EyaCV
 ## Quick Revue of Traditional Computer Vision Techniques
 
-⚠️ UNDER CONSTRUCTION ⚠️ :hammer: :hammer: :hammer:
-
 ### color (object localisation / skin region) + morphological filters
 
 - different spaces : RGB, HSV, etc.
@@ -44,6 +42,9 @@
 ### neural network (flower classification)
 
   - classification    (VGG, ResNet, Inception, etc.)
+  
+  More on neural networks in another repository...
+  
   - localisation      (Yolo)
   - segmentation      (FB)
   - one shot learning (siamese network)
